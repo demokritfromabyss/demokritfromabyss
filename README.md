@@ -1,16 +1,29 @@
-## Hi there 👋
+### Hi, I am Alexander!
+:chart_with_upwards_trend: Beginer Data Scientist with more than 6 years in IT enviroment.
 
-<!--
-**demokritfromabyss/demokritfromabyss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Technical skills
+- Python (Jupyter Notebook): Pandas, Numpy, Matplotlib, SciPy, Seaborn 
+- SQL: aggregation, subqueries, joins, window functions 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### My projects
+
+| Project name | Description | Used libraries | Status |
+| :---------------------- | :---------------------- | :---------------------- |:---------------------- |
+| [Video games](https://github.com/demokritfromabyss/DS/blob/main/1.%20Video%20games/Video_games.ipynb) |  Data Analysis in the Video Game Sales Sector| Pandas, Matplotlib, Seaborn, Numpy, Scipy |Done |
+| [HR analysis](https://github.com/demokritfromabyss/DS/blob/main/2.%20HR%20analysis/HR%20analysis.ipynb) |  Data Analysis in the HR company| Pandas, Matplotlib, Seaborn, Numpy, Scipy |Done |
+
+
+### My contacts 
+<div id="badges">
+  <a href="https://www.linkedin.com/in/alexander-popov-codeaap/">
+    <img src="https://img.shields.io/badge/LinkedIn-lightskyblue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:alexcodeaap@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-lightskyblue?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+</div>
+
+
+<img src="https://komarev.com/ghpvc/?username=demokritfromabyss&style=flat-square&color=blue" alt=""/>
