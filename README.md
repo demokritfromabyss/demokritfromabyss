@@ -18,9 +18,9 @@
 
 ### My applications based by Streamlit
 
-| App name | Description | Used libraries | In progress |
+| App name | Description | Used libraries | Status |
 | :---------------------- | :---------------------- | :---------------------- |:---------------------- |
-| [Preprocessing & Visualization](https://uubxc9nyplyydqtzklzxhq.streamlit.app/) | Data Preprocessing and Analysis | Pandas, Matplotlib, Seaborn, Numpy, SciPy |Done |
+| [Preprocessing & Visualization](https://uubxc9nyplyydqtzklzxhq.streamlit.app/) | Data Preprocessing and Analysis | Pandas, Matplotlib, Seaborn, Numpy| In progress |
 
 
 ### My contacts 
