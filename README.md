@@ -16,6 +16,12 @@
 | [Oil mining](https://github.com/demokritfromabyss/DS/blob/main/3.%20Oil%20mining/Oil%20mining.ipynb) |  Determining the most profitable oil-producing region | Pandas, Matplotlib, Seaborn, Numpy, SciPy, Statsmodels |Done |
 | [Comments analysis](https://github.com/demokritfromabyss/DS/blob/main/4.%20Text%20analysis/Comments%20analysis.ipynb) | Training a model to classify comments as positive or negative | Pandas, Matplotlib, Numpy, SciPy, NTLK |Done |
 
+### My applications based by Streamlit
+
+| App name | Description | Used libraries | In progress |
+| :---------------------- | :---------------------- | :---------------------- |:---------------------- |
+| [Preprocessing & Visualization](https://uubxc9nyplyydqtzklzxhq.streamlit.app/) | Data Preprocessing and Analysis | Pandas, Matplotlib, Seaborn, Numpy, SciPy |Done |
+
 
 ### My contacts 
 <div id="badges">
