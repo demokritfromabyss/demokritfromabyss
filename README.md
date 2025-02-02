@@ -20,7 +20,7 @@
 
 | App name | Description | Used libraries | Status |
 | :---------------------- | :---------------------- | :---------------------- |:---------------------- |
-| [Preprocessing & Visualization](https://uubxc9nyplyydqtzklzxhq.streamlit.app/) | Data Preprocessing and Analysis | Pandas, Matplotlib, Seaborn, Numpy| In progress |
+| [Preprocessing & Visualization](https://demokritfromabyss-cq556qvxbzwjmdvrpje2ev.streamlit.app/) | Data Preprocessing and Analysis | Pandas, Matplotlib, Seaborn, Numpy| In progress |
 
 
 ### My contacts 
