@@ -15,6 +15,7 @@
 | [HR analysis](https://github.com/demokritfromabyss/DS/blob/main/2.%20HR%20analysis/HR%20analysis.ipynb) | Data Analysis in the HR company | Pandas, Matplotlib, Seaborn, Numpy, SciPy |Done |
 | [Oil mining](https://github.com/demokritfromabyss/DS/blob/main/3.%20Oil%20mining/Oil%20mining.ipynb) |  Determining the most profitable oil-producing region | Pandas, Matplotlib, Seaborn, Numpy, SciPy, Statsmodels |Done |
 | [Comments analysis](https://github.com/demokritfromabyss/DS/blob/main/4.%20Text%20analysis/Comments%20analysis.ipynb) | Training a model to classify comments as positive or negative | Pandas, Matplotlib, Numpy, SciPy, NTLK |Done |
+| [Customer churn](https://github.com/demokritfromabyss/DS/tree/main/5.%20Graduation%20project) | Customer churn prediction | Pandas, Matplotlib, Numpy, SciPy, phik |Done |
 
 ### My applications based by Streamlit
 
