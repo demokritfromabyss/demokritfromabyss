@@ -1,5 +1,5 @@
 ### Hi, I am Alexander!
-:chart_with_upwards_trend: Beginer Data Scientist with more than 6 years in IT enviroment.
+:chart_with_upwards_trend: Beginer Data Scientist with more than 7 years in IT enviroment.
 
 
 ### Technical skills
